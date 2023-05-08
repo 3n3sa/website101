@@ -1,0 +1,59 @@
+/* .container {
+  display: grid; 
+  grid-template-areas: 
+    "header header"
+    "content1 side"
+    "content2 side"
+    "footer footer"; 
+  grid-gap: 8px; 
+  grid-template-columns: auto auto;
+  grid-template-rows: 1fr 2fr 2fr 1fr;
+} 
+
+header {
+  background-color: red;
+  grid-area: header;
+}
+
+#side {
+  background-color: green;
+  grid-area: side;
+}
+
+#intro {
+  background-color: yellow;
+  grid-area: content1;
+}
+
+#goodeveningsection {
+  background-color: blue;
+  grid-area: content2;
+}
+
+footer {
+  background-color: purple;
+  grid-area: footer;
+}
+
+.containerlist {
+  display: flex; 
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+}
+
+.listitem {
+  list-style-type: none;
+} */
+
+a:link {
+  color: red;
+}
+
+a:hover {
+  color: pink; 
+}
+
+.listitem {
+  list-style-type: none;
+}
